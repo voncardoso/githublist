@@ -1,0 +1,6 @@
+.Header h1{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px 50px 0px;
+    color: #ffffff;
+}

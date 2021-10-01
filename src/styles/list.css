@@ -1,0 +1,22 @@
+.GitLis {
+    display: flex;
+    justify-content: center;
+    max-width: 960px;
+    background: #ffffff;
+    margin: 0 auto;
+    border-radius:20px ;
+}
+
+.GitLis ul{
+    list-style: none;
+    display: flex;
+}
+
+.GitLis li{
+    
+}
+
+
+.GitLis a{
+    text-decoration: none;
+}
