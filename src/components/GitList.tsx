@@ -32,6 +32,34 @@ export function GitList(){
                         Link do repositorio
                     </a>
                 </li>
+                <li>
+                    <strong>Escola on</strong>
+                    <p>Descrição do repositprio</p>
+                    <a href="">
+                        Link do repositorio
+                    </a>
+                </li>
+                <li>
+                    <strong>Escola on</strong>
+                    <p>Descrição do repositprio</p>
+                    <a href="">
+                        Link do repositorio
+                    </a>
+                </li>
+                <li>
+                    <strong>Escola on</strong>
+                    <p>Descrição do repositprio</p>
+                    <a href="">
+                        Link do repositorio
+                    </a>
+                </li>
+                <li>
+                    <strong>Escola on</strong>
+                    <p>Descrição do repositprio</p>
+                    <a href="">
+                        Link do repositorio
+                    </a>
+                </li>
             </ul>    
         </section>
         
